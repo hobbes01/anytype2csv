@@ -1,4 +1,5 @@
 # Some TODOs:
+-[ ] Perform automatic testing on new releases.
 -[ ] Could this be done through AnyType API?
 -[ ] Streamline `*_pb2.py` generation.
 -[ ] Actually use cache to limit file reads.
