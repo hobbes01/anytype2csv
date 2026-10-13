@@ -6,6 +6,11 @@ who celebrate trust & autonomy.
 
 `anytype2csv` is a work in progress.
 
+> [!CAUTION]
+> As of 11/30/2025, `anytype2csv` is no longer compatible with newer versions of 
+Anytype. Please, take it for what it is : a first attempt on my part to bridge 
+the gap between Anytype and worksheets.
+
 ## Presentation
 
 `anytype2csv` produces CSV files from an export archive of an Anytype space.
